@@ -2,7 +2,7 @@
 
 ## 📋 Test Cases Documentation
 
-Este directorio contiene la documentación completa de pruebas manuales para una aplicación de ecommerce.
+Este directorio contiene la documentación completa de pruebas manuales para una aplicación de ecommerce, disfrutalo
 
 ### 📄 Archivos Incluidos
 
